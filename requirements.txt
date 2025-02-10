@@ -3,4 +3,6 @@ ultralytics
 opencv-python-headless
 pillow
 numpy
-
+pyyaml
+torch
+torchvision
